@@ -1,28 +1,14 @@
-# Demonstration Models
-This project contains a curated list of models for demonstration and educational purposes.
+# BlockScience Labs: Documentation
+This project aims to serve as your one-stop-shop for all things BlockScience Labs. Herein you can find information the development of models, the execution of simulations, post-processing/analytics, and best practices for all the above. Additionally, you can find helpful resources such as demonstration and educational models as well as tutorials and industry news.
 
-## Specifications & Configurations
-All the contained models are built against <a href="https://pypi.org/project/cadCAD/0.4.28/" target="_blank">cadCAD v0.4.28</a> (legacy) and are ready to be executed on the Labs execution cluster.
+## Modeling
 
-## Models
-### Conviction Voting
-See [Conviction Voting](models/conviction-voting.md).
+### JupyterLab
 
-### Predator/Prey
-See [Predator/Prey](models/predator-prey.md).
+### Simulation Execution
 
-### Rock, Paper, Scissors
-See [Rock, Paper, Scissors](models/rps.md).
+## Demonstration Models
 
-## Play with them!
-The easiest way to start playing with these models is to first fork the Github repository by clicking the link to the repository in the upper right hand corner of this site:
+## Tutorials
 
-![](images/github.png)
-
-Forking the project:
-
-![](images/fork.png)
-
-And finally, importing the fork into your Labs account:
-
-![](images/new-project.png) 
+## Frequently Asked Questions
