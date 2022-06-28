@@ -6,6 +6,7 @@ This project aims to serve as your one-stop-shop for all things BlockScience Lab
 ### JupyterLab
 
 ### Simulation Execution
+- [Labs Conversion Checklist](docs/labs-conversion-checklist.md)
 
 ## Demonstration Models
 
