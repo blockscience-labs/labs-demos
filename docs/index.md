@@ -7,7 +7,7 @@ All the contained models are built against <a href="https://pypi.org/project/cad
 ## Play with them!
 The easiest way to start playing with these models is to first fork the Github repository by clicking the link to the repository in the upper right hand corner of this site:
 
-
+![](images/github.png)
 
 Forking the project:
 
