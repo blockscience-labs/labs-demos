@@ -1,4 +1,4 @@
-theme: readthedocs
+theme: material
 repo_url: https://github.com/blockscience-labs/labs-documentation
 nav:
     - index.md
