@@ -4,5 +4,5 @@ nav:
     - index.md
     - index2.md
 markdown_extensions:
-    - toc
+    - toc:
         permalink: true
