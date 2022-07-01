@@ -3,3 +3,6 @@ repo_url: https://github.com/blockscience-labs/labs-documentation
 nav:
     - index.md
     - index2.md
+markdown_extensions:
+    - toc
+        permalink: true
