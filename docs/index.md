@@ -15,4 +15,4 @@ See [Demonstration Models](models/index.md).
 See [Tutorials](tutorials/index.md).
 
 ## Frequently Asked Questions
-See [Frequently Asked Questions](faq.md).
+See [Frequently Asked Questions](faq/index.md).
