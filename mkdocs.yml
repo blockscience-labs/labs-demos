@@ -1,8 +1,4 @@
 theme: material
-repo_url: https://github.com/blockscience-labs/labs-documentation
-site_url: https://app.blocksciencelabs.com/project/115/documentation
-nav:
-    - index.md
-markdown_extensions:
-    - toc:
-        permalink: true
+theme:
+    palette:
+        scheme: slate
