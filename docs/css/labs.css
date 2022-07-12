@@ -6,3 +6,7 @@
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color: #FFCD00;
 }
+
+.md-header {
+    color: black;
+}
