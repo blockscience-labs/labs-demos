@@ -1,3 +1,5 @@
-a {
-    color: red;
+[data-md-color-scheme="blockscience-labs"] {
+  --md-primary-fg-color:        red;
+  --md-primary-fg-color--light: blue;
+  --md-primary-fg-color--dark:  purple;
 }

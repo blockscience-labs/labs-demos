@@ -1,6 +1,6 @@
 theme:
     name: material
     palette:
-        scheme: slate
+        scheme: blockscience-labs
 extra_css:
     - css/index.css
