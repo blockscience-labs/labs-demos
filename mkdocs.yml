@@ -15,3 +15,5 @@ nav:
     - 05_analytics.md
     - 06_presentation.md
     - 99_resources.md
+extra:
+    generator: false
