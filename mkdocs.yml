@@ -2,3 +2,5 @@ theme:
     name: material
     palette:
         scheme: slate
+extra_css:
+    - css/index.css
