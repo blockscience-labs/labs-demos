@@ -9,9 +9,3 @@ To get started, click the `next` link found at the bottom of this page.
 
 !!! info
     If you find any information here that is unclear or incorrect please let us know at `support@blocksciencelabs.com`
-
-## Additional Resources
-- [Labs Conversion Checklist](docs/labs-conversion-checklist.md)
-- [Demonstration Models](models/index.md)
-- [Tutorials](tutorials/index.md)
-- [Frequently Asked Questions](faq/index.md)
