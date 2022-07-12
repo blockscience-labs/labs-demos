@@ -8,3 +8,9 @@ markdown_extensions:
     - admonition
 nav:
     - index.md
+    - 01_getting_started.md
+    - 02_planning.md
+    - 03_developing.md
+    - 04_execution.md
+    - 05_analytics.md
+    - 06_presentation.md
