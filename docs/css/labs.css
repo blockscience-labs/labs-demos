@@ -9,5 +9,8 @@
 
 .md-header {
     color: #232323;
-    font-weight: 500;
+}
+
+.md-header__topic:first-child {
+    font-weight: default;
 }
