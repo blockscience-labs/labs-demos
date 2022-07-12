@@ -3,4 +3,4 @@ theme:
     palette:
         scheme: blockscience-labs
 extra_css:
-    - css/index.css
+    - css/labs.css
