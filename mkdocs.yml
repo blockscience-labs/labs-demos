@@ -4,5 +4,5 @@ theme:
         scheme: slate
 extra_css:
     - css/labs.css
-plugins:
+markdown_extensions:
     - admonition
