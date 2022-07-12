@@ -6,3 +6,5 @@ extra_css:
     - css/labs.css
 markdown_extensions:
     - admonition
+nav:
+    - index.md
