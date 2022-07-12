@@ -7,7 +7,7 @@ extra_css:
 markdown_extensions:
     - admonition
 nav:
-    - index.md
+    - index.md "Welcome"
     - 01_getting_started.md
     - 02_planning.md
     - 03_developing.md
