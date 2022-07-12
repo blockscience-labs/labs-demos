@@ -1,7 +1,4 @@
-# Welcome!
-
-!!! info
-    If you find any information here that is unclear or incorrect please let us know at `support@blocksciencelabs.com`
+# Welcome
 
 The BlockScience Labs platform brings together a collection of modeling tools and services to faciliate the entire modeling pipeline from the early planning and diagramming phase to the post-processing and analytics phase and, finally, to the presentation phase.
 
