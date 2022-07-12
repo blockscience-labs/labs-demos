@@ -5,6 +5,7 @@
 
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color: #FFCD00;
+    --md-primary-bg-color: #232323;
 }
 
 .md-header {
