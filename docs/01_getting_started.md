@@ -9,8 +9,7 @@ During registration you will be asked to link your GitHub account. While this is
 
 !!!info
     You are able to connect a GitHub account after registration if you skip it the first time around. You can also *"disconnect"* an active connection from here although you will have to go to GitHub to truly revoke access.
-    
-![](images/github-revoke.png)
+    ![](images/github-revoke.png)
 
 ### Email Confirmation
 Immediately following the registration of your account, you will be emailed at the email address you used to register. Please find that email and click the confirmation link to verify ownership of your email address.
