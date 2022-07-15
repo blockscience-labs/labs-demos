@@ -1,5 +1,5 @@
 # Development
-Development of your model can be done within the Labs platform by utilizing several features and services; primarily, a JupyterLab server instance that provides a full-featured Python IDE for you to use.
+Development of your model can be done within the Labs platform by utilizing several features and services; primarily, a JupyterLab server instance that provides a full-featured Python IDE for you to use, an SDK for interacting with the Labs platform programmatically, and a distributed model execution service that can make speedy work of running your model.
 
 ## Starting/Stopping JupyterLab
 Every user on the Labs platform can spin up a JupyterLab server to work on the project files that are contained within the associated GitHub repository. This includes users who do not have direct access to the GitHub repo but have been added to the project as a collaborator.
