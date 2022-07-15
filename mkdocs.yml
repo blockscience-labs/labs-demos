@@ -4,7 +4,6 @@ theme:
         scheme: slate
     features:
         - toc.integrate
-        - navigation.top
 extra_css:
     - css/labs.css
 markdown_extensions:
