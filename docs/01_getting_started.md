@@ -12,6 +12,12 @@ Immediately following the registration of your account, you will be emailed at t
 Lastly, you'll need to add a payment method to your Labs account even if you are on the free tier. This allows a la carte execution of models on our execution cluster and also enables protections against abusive or malicious accounts being created. Adding a payment method *does not* sign you up for anything nor will those payment methods ever be charged without explicit confirmation on your part before hand.
 
 ## Projects
+Projects are the at the heart of all the work you will do on the platform and serve as the workspace in which you will do it. A project consists of an associated Git repository (and the actual modeling work that goes along with it), a list of collaborators, and an optional docsite (static documentation site generated from markdown).
+
+### Creating/Importing a New Project
+The first thing you're going to do after logging into Labs for the first time is import a project from GitHub. In the future, you will be able to create a new GitHub repository/project directly from Labs but for now you will need to create the repo/project ahead of time directly in GitHub and then import into Labs afterwards.
+
+To import a repository, click the `New Project` from the `Projects` screen.
 
 ## Collaborators
 
