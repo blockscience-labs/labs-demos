@@ -20,7 +20,3 @@ The first thing you're going to do after logging into Labs for the first time is
 To import a repository, click the `New Project` from the `Projects` screen.
 
 ## Collaborators
-
-## Teams
-
-## Paid User Tiers
