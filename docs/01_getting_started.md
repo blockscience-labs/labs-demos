@@ -33,6 +33,12 @@ To import a repository, click `New Project` from the `Projects` screen.
 
 ![](images/new-project.png)
 
+Next, you can search for and select any of the repositories that belong to your own GitHub user, any of the GitHub organizations you belong to, or any repos that you have explicitly been granted access to. For public repos that do not belong to you or any organization you're a member of, you'll need to first fork the repo somewhere for it to be importable.
+
+Give your project a good name and a simple description and you're off to the races.
+
+![](images/project-import.png)
+
 ## Collaborators
 Collaborators are people you want to have access to project resources either for collaboration on work or perhaps as a sort of read-only role. Adding collaborators is easy and only requires that the person already have an account on the Labs platform. To invite someone to your project, click `Add Collaborator` from the `Permissions` tab of your projects page.
 
@@ -40,3 +46,5 @@ Collaborators are people you want to have access to project resources either for
 
 !!!info
     You will not be presented with any sort of message indication success or failure of an invite to collaborate. This is to protect the privacy of our users. Please ensure before hand that the account indeed exists and that you have entered the email address correctly.
+    
+Additionally, from the `Permissions` tab you can also see current collaborators, their activity status, and have the ability to remove collaboration access from them.
