@@ -5,10 +5,12 @@ First things, first: registering your account! Using the Labs platform is free t
 ### Linking your GitHub Account
 During registration you will be asked to link your GitHub account. While this isn't strictly required to use the platform, many features will be unavailable until you do this as the platform relies on GitHub for project storage and version control. We have further integrations planned (GitLab, BitBucket, Radicle, etc) but as of now, you'll want to have a GitHub account (free tier is more than sufficient) in order to maximize the usefulness of our platform.
 
-!!!info
-    You are able to connect a GitHub account after registration if you skip it the first time around.
-    
 ![](images/github-connection.png)
+
+!!!info
+    You are able to connect a GitHub account after registration if you skip it the first time around. You can also *"disconnect"* an active connection from here although you will have to go to GitHub to truly revoke access.
+    
+![](images/github-revoke.png)
 
 ### Email Confirmation
 Immediately following the registration of your account, you will be emailed at the email address you used to register. Please find that email and click the confirmation link to verify ownership of your email address.
@@ -35,3 +37,6 @@ To import a repository, click `New Project` from the `Projects` screen.
 Collaborators are people you want to have access to project resources either for collaboration on work or perhaps as a sort of read-only role. Adding collaborators is easy and only requires that the person already have an account on the Labs platform. To invite someone to your project, click `Add Collaborator` from the `Permissions` tab of your projects page.
 
 ![](images/add-collaborator.png)
+
+!!!info
+    You will not be presented with any sort of message indication success or failure of an invite to collaborate. This is to protect the privacy of our users. Please ensure before hand that the account indeed exists and that you have entered the email address correctly.
