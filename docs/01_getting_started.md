@@ -27,8 +27,11 @@ Projects are the at the heart of all the work you will do on the platform and se
 ### Creating/Importing a New Project
 The first thing you're going to do after logging into Labs for the first time is import a project from GitHub. In the future, you will be able to create a new GitHub repository/project directly from Labs but for now you will need to create the repo/project ahead of time directly in GitHub and then import into Labs afterwards.
 
-To import a repository, click the `New Project` from the `Projects` screen.
+To import a repository, click `New Project` from the `Projects` screen.
 
 ![](images/new-project.png)
 
 ## Collaborators
+Collaborators are people you want to have access to project resources either for collaboration on work or perhaps as a sort of read-only role. Adding collaborators is easy and only requires that the person already have an account on the Labs platform. To invite someone to your project, click `Add Collaborator` from the `Permissions` tab of your projects page.
+
+![](images/add-collaborator.png)
