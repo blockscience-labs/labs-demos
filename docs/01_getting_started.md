@@ -16,7 +16,7 @@ Immediately following the registration of your account, you will be emailed at t
 ### Adding a Payment Method
 Lastly, you'll need to add a payment method to your Labs account even if you are on the free tier. This allows a la carte execution of models on our execution cluster and also enables protections against abusive or malicious accounts being created.
 
-!info
+!!info
     Adding a payment method *does not* sign you up for anything nor will those payment methods ever be charged without explicit confirmation on your part before hand.
 
 ![](images/payment-method.png)
@@ -29,6 +29,6 @@ The first thing you're going to do after logging into Labs for the first time is
 
 To import a repository, click the `New Project` from the `Projects` screen.
 
-![](images/new-project.png)
+!![](images/new-project.png)
 
 ## Collaborators
