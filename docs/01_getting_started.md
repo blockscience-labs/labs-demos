@@ -5,7 +5,7 @@ First things, first: registering your account! Using the Labs platform is free t
 ### Linking your GitHub Account
 During registration you will be asked to link your GitHub account. While this isn't strictly required to use the platform, many features will be unavailable until you do this as the platform relies on GitHub for project storage and version control. We have further integrations planned (GitLab, BitBucket, Radicle, etc) but as of now, you'll want to have a GitHub account (free tier is more than sufficient) in order to maximize the usefulness of our platform.
 
-!info
+!!info
     You are able to connect a GitHub account after registration if you skip it the first time around.
     
 ![](images/github-connection.png)
@@ -29,6 +29,6 @@ The first thing you're going to do after logging into Labs for the first time is
 
 To import a repository, click the `New Project` from the `Projects` screen.
 
-!![](images/new-project.png)
+![](images/new-project.png)
 
 ## Collaborators
