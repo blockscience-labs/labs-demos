@@ -1,2 +1,2 @@
 # Post-processing and Analytics
-<iframe src="docs/test.ipynb" />
+<iframe src="docs/test.html" />
