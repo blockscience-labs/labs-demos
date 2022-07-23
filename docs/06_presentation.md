@@ -1,6 +1,8 @@
 # Presenting your Work
 BlockScience Labs provides a number of publishing features and services to get your hard work into the hands of stakeholders or other interested parties that only want to see the end results.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVucoTOTx00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Docsite Publishing
 One of our key features for presenting work is through a static website generated from markdown files. We generally refer to this website as a *docsite* or *documentation site* and creating one for you project is super simple.
 
@@ -15,3 +17,5 @@ To generate your projects docsite, you simply need to add a `docs/` folder in th
 
 ## Document Hosting
 From within the JupyterLab IDE, you can publish + host static version of `markdown` and `notebook` files by right clicking on those types of files and selecting `Publish Document` from the contextual menu. Any other file can be hosted by right clicking and selecting `Host Document`. Both scenarios will present you with the option to select whether or not you want the file to be published/hosted publicly or privately.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QOdy1yboOMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

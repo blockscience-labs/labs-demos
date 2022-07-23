@@ -1,6 +1,8 @@
 # Development
 Development of your model can be done within the Labs platform by utilizing several features and services; primarily, a JupyterLab server instance that provides a full-featured Python IDE for you to use, an SDK for interacting with the Labs platform programmatically, and a distributed model execution service that can make speedy work of running your model.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mi_xYjSn72A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Starting/Stopping JupyterLab
 Every user on the Labs platform can spin up a JupyterLab server to work on the project files that are contained within the associated GitHub repository. This includes users who do not have direct access to the GitHub repo but have been added to the project as a collaborator.
 
@@ -16,3 +18,5 @@ Once the server has started (should take less than a minute but may take up to a
     JupyterLab server instances are automatically cleaned up after 30 minutes of inactivity so please remember to commit and push any changes you make so that you don't lose work.
     
 ## Using JupyterLab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yqk7h5ilsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
