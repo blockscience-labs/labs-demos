@@ -1,1 +1,2 @@
 # Planning your Work
+Modeling complex systems is no easy feat and unfortunately cannot be boiled down to a set of concrete instructions that produce a useful model once followed. Every model you design will be unique and will need to be constructed differently (even if only slightly) than others. Because of this nuance in design and implementation, Labs aims to offer many tools to help you with the process of determining the correct path forward. We want to encourage and foster the experimentation side of model development.
