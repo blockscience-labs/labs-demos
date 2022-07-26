@@ -5,6 +5,8 @@ A curated list of models for demonstration and educational purposes.
 ### Reflexer Digital Twin
 See [Reflexer Digital Twin](reflexer-digital-twin/index.md)
 
+The official repository can be found [here](https://github.com/reflexer-labs/reflexer-digital-twin).
+
 ### Bonding Curve
 See [Bonding Curve](bonding-curve/index.md).
 
