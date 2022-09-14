@@ -4,3 +4,4 @@
 - [Demonstration Models](models/index.md)
 - [Tutorials](tutorials/index.md)
 - [Frequently Asked Questions](docs/faq.md)
+- [JupyterLite Embed Tests](docs/embed-test.md)
