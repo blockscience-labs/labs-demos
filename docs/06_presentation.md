@@ -1,4 +1,7 @@
 # Presenting your Work
+<blockquote>There is no cost to getting things wrong. The cost is not getting
+them published. - Brian Nosek</blockquote>
+
 BlockScience Labs provides a number of publishing features and services to get your hard work into the hands of stakeholders or other interested parties that only want to see the end results.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZVucoTOTx00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
