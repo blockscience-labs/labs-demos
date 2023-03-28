@@ -1,0 +1,20 @@
+{
+  "title": "Publish Document",
+  "description": "Publish document to the BlockScience Labs platform.",
+  "jupyter.lab.menus": {
+    "context": [
+      {
+        "command": "labs-jupyterlab-extension/context-menu:publish",
+        "selector": ".jp-DirListing-item[data-file-type=\"markdown\"]",
+        "rank": 0
+      },
+      {
+        "command": "labs-jupyterlab-extension/context-menu:publish",
+        "selector": ".jp-DirListing-item[data-file-type=\"notebook\"]",
+        "rank": 0
+      }
+    ]
+  },
+  "additionalProperties": false,
+  "type": "object"
+}
