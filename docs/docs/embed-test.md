@@ -1,7 +1,7 @@
 # JupyterLite Tests
 ## Retrolab
 <iframe
-  src="../jupyterlite/_output/retro/notebooks/index.html?path=jupyter-lite.ipynb&theme='JupyterLab Dark'"
+  src="https://labs-publications.s3.eu-west-1.amazonaws.com/115/site/jupyterlite/_output/retro/notebooks/index.html?path=jupyter-lite.ipynb&theme='JupyterLab Dark'"
   width="100%"
   height="800px"
 ></iframe>
