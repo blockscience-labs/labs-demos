@@ -20,4 +20,3 @@ nav:
 extra:
     generator: false
 plugins:
-    - mkdocs-jupyter
